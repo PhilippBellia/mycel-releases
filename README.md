@@ -91,7 +91,7 @@ Mycel runs on its own. A few features rely on tools you may already have:
 ## Support Mycel
 
 Mycel is free to download and use. If it saves you time and you would like to help it grow,
-you can support its development on **[Patreon](PATREON_LINK_HIER_EINSETZEN)** — entirely voluntary, and very
+you can support its development on **[Patreon](https://www.patreon.com/cw/PhilippBellia)** — entirely voluntary, and very
 much appreciated.
 
 ## License
@@ -172,7 +172,7 @@ Mycel läuft ohne weitere Programme. Einzelne Funktionen setzen etwas voraus:
 ## Mycel unterstützen
 
 Mycel kostet nichts. Wenn es dir Zeit spart und du mithelfen möchtest, dass es weiterwächst,
-kannst du die Entwicklung auf **[Patreon](PATREON_LINK_HIER_EINSETZEN)** unterstützen — ganz freiwillig, und
+kannst du die Entwicklung auf **[Patreon](https://www.patreon.com/cw/PhilippBellia)** unterstützen — ganz freiwillig, und
 sehr willkommen.
 
 ## Lizenz
