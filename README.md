@@ -13,7 +13,7 @@
   <a href="https://github.com/PhilippBellia/mycel-releases/releases/latest"><img src="https://img.shields.io/github/v/release/PhilippBellia/mycel-releases?label=download&color=2f9e6e" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/platform-Windows-0078d4" alt="Windows">
   <img src="https://img.shields.io/badge/language-English%20%C2%B7%20Deutsch-555" alt="English · Deutsch">
-  <a href="PATREON_LINK_HIER_EINSETZEN"><img src="https://img.shields.io/badge/Patreon-support%20Mycel-f96854?logo=patreon&logoColor=white" alt="Support on Patreon"></a>
+  <a href="[PATREON_LINK_HIER_EINSETZEN](https://www.patreon.com/cw/PhilippBellia)"><img src="https://img.shields.io/badge/Patreon-support%20Mycel-f96854?logo=patreon&logoColor=white" alt="Support on Patreon"></a>
 </p>
 
 <p align="center">
